@@ -1,4 +1,4 @@
-# PROMPT-HACKERS
+# PROMPT-EVALATOR
 
 **AI Prompt Quality Evaluation Ecosystem** — Built for the Mistral Hackathon
 
