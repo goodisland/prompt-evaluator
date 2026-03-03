@@ -8,6 +8,8 @@
 
 [![Demo Video](https://img.youtube.com/vi/kcLIAN3F1IY/maxresdefault.jpg)](https://youtu.be/kcLIAN3F1IY)
 
+> [Hackathon Submission](https://hackiterate.com/mistral-worldwide-hackathons?tab=submissions&submission=245ade06-09c8-4b8c-8ac8-c9f71bad0fe7)
+
 ---
 
 ## Team
@@ -18,7 +20,7 @@ Huge thanks to every teammate who made this possible:
 
 - [@nowex35](https://github.com/nowex35) — Led the frontend development, building the core UI and glassmorphism experience
 - [@shu-ozawa](https://github.com/shu-ozawa) — Built `eval-score` and `auto-eval-prompt`, powering annotation and batch evaluation
-- [@goodisland](https://github.com/goodisland) (me) — Led the model training pipeline, fine-tuning and deploying the custom Mistral evaluator
+- [@goodisland](https://github.com/goodisland) — Led the model training pipeline, fine-tuning and deploying the custom Mistral evaluator
 
 ---
 
