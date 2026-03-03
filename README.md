@@ -12,7 +12,7 @@
 
 ## What Is This?
 
-PROMPT-HACKERS is a multi-component system that helps users write better prompts for AI models. It evaluates prompts across 6 structured criteria, provides real-time feedback, visualizes strengths and weaknesses, and learns from human-annotated data through fine-tuning.
+PROMPT-EVALUATOR is a multi-component system that helps users write better prompts for AI models. It evaluates prompts across 6 structured criteria, provides real-time feedback, visualizes strengths and weaknesses, and learns from human-annotated data through fine-tuning.
 
 The system spans a web app, a batch CLI tool, a browser extension, a fine-tuned model, and an analysis dashboard — all sharing the same evaluation framework.
 
@@ -198,12 +198,13 @@ English · Japanese · French
 
 ## Team
 
-**PROMPT-HACKERS** — Mistral Hackathon 2026
+**PROMPT-EVALUATOR** — Mistral Hackathon 2026
 
-Special thanks to our teammates:
+Huge thanks to every teammate who made this possible:
 
-- [@nowex35](https://github.com/nowex35)
-- [@shu-ozawa](https://github.com/shu-ozawa)
+- [@nowex35](https://github.com/nowex35) — Led the frontend development, building the core UI and glassmorphism experience
+- [@shu-ozawa](https://github.com/shu-ozawa) — Built `eval-score` and `auto-eval-prompt`, powering annotation and batch evaluation
+- [@goodisland](https://github.com/goodisland) — Led the model training pipeline, fine-tuning and deploying the custom Mistral evaluator
 
 ---
 
