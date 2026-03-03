@@ -10,6 +10,18 @@
 
 ---
 
+## Team
+
+**PROMPT-EVALUATOR** — Mistral Hackathon 2026
+
+Huge thanks to every teammate who made this possible:
+
+- [@nowex35](https://github.com/nowex35) — Led the frontend development, building the core UI and glassmorphism experience
+- [@shu-ozawa](https://github.com/shu-ozawa) — Built `eval-score` and `auto-eval-prompt`, powering annotation and batch evaluation
+- [@goodisland](https://github.com/goodisland) — Led the model training pipeline, fine-tuning and deploying the custom Mistral evaluator
+
+---
+
 ## What Is This?
 
 PROMPT-EVALUATOR is a multi-component system that helps users write better prompts for AI models. It evaluates prompts across 6 structured criteria, provides real-time feedback, visualizes strengths and weaknesses, and learns from human-annotated data through fine-tuning.
@@ -193,18 +205,6 @@ All components share:
 ## Languages Supported
 
 English · Japanese · French
-
----
-
-## Team
-
-**PROMPT-EVALUATOR** — Mistral Hackathon 2026
-
-Huge thanks to every teammate who made this possible:
-
-- [@nowex35](https://github.com/nowex35) — Led the frontend development, building the core UI and glassmorphism experience
-- [@shu-ozawa](https://github.com/shu-ozawa) — Built `eval-score` and `auto-eval-prompt`, powering annotation and batch evaluation
-- [@goodisland](https://github.com/goodisland) (me) — Led the model training pipeline, fine-tuning and deploying the custom Mistral evaluator
 
 ---
 
